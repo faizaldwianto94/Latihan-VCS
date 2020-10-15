@@ -1,0 +1,2 @@
+# Latihan-VCS
+README.MD
